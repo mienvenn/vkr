@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+indexes/
+indexes_*/
+data/chunks*.jsonl
+data/qrels*.jsonl
+*.faiss
+*.pkl
+*.npz
+.DS_Store
