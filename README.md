@@ -19,7 +19,6 @@ vkr/
 ├── 05_evaluate.ipynb        # инференс и оценка всех конфигураций
 │
 ├── requirements.txt
-├─ README.md
 └── .gitignore
 ```
 
